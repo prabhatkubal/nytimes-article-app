@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To Install the app go to the project directory ex: /nytimes-article-app
+
+### npm i 
+
 In the project directory, you can run:
 
 ### `npm start`
