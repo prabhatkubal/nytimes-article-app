@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nytimes-article-app/static/css/main.ccaec63f.css",
+    "main.css": "/nytimes-article-app/static/css/main.2c85ed43.css",
     "main.js": "/nytimes-article-app/static/js/main.9086580f.js",
     "static/js/453.8f17f20d.chunk.js": "/nytimes-article-app/static/js/453.8f17f20d.chunk.js",
     "static/media/logo.svg": "/nytimes-article-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nytimes-article-app/index.html",
-    "main.ccaec63f.css.map": "/nytimes-article-app/static/css/main.ccaec63f.css.map",
+    "main.2c85ed43.css.map": "/nytimes-article-app/static/css/main.2c85ed43.css.map",
     "main.9086580f.js.map": "/nytimes-article-app/static/js/main.9086580f.js.map",
     "453.8f17f20d.chunk.js.map": "/nytimes-article-app/static/js/453.8f17f20d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccaec63f.css",
+    "static/css/main.2c85ed43.css",
     "static/js/main.9086580f.js"
   ]
 }
